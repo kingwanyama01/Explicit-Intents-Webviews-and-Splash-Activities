@@ -1,0 +1,2 @@
+rootProject.name='My Three in OneApp'
+include ':app'
